@@ -1,0 +1,100 @@
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+
+
+    body
+    {
+        background-image: url(images/pattern-background-desktop.png);
+        background-repeat: no-repeat;
+        background-color: hsl(225, 100%, 94%);
+    }
+
+    h1
+    {
+      text-align: center;
+      font-family: "RedHatDisplay", sans-serif;
+    }
+
+    h4
+    {
+      display: inline-flex;  
+      margin-top: 0px;
+    }
+
+    .box
+      {
+      background-color: white;
+      align-items: center;
+      width: 450px;
+      height: 550px;
+      margin-left: auto;
+      margin-right: auto;
+      border-radius: 25px;
+
+
+     }
+
+     .illustration
+     {
+     border-top-left-radius: 25px;
+     border-top-right-radius: 25px;  
+     }
+
+     .p1
+     {
+      font-size: 18px ;
+      font-family: "RedHatDisplay", sans-serif  ;
+      font-weight: 500, 700, 900;
+      text-align: center;
+      margin-left: 50px;
+      margin-right: 50px;
+      color: gray;
+     }
+
+     .box2
+     {
+      display: flex;
+      margin-left: 20px;
+      width: 400px;
+      height: 50px;
+      border-radius: 25px;
+      align-items: top;
+      background-color:  hsl(225, 100%, 98%) ;
+     }
+
+     .p2
+     {
+        display: inline;
+        margin-left: 15px;
+        margin-top: 10px;
+        font-family: "RedHatDisplay", sans-serif  ;
+        font-size: 14px;
+        color: grey;
+     }
+     
+     .p3
+     {
+       display: flex;
+       text-align: right;
+       margin-left: 180px;
+       text-align-last: right;
+     }
+     b{
+        display: inline;
+        font-size: 16px;
+        font-family: "RedHatDisplay";
+        color: black;
+     }
+
+     .proceed
+     {
+      text-align: center;
+      background-color:  hsl(245, 75%, 52%);
+      border-radius: 25px;
+      width: 370px;
+      height: 50px;
+      margin-left: 35px;
+      color: white;
+      font-family: "RedHatDisplay", sans-serif ;
+     }
+
